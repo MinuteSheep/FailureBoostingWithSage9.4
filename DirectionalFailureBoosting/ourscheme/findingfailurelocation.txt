@@ -23,3 +23,4 @@ theta_SE 1.189464, theory: 1.166564
 theoretical probability of good estimate: 10132118.364232
 theta_SE 1.073051, theory: 1.023762
 theoretical probability of good estimate: 9096803.332075
+theoretical probability of good estimate: 10132118.364232
