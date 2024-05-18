@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import itertools
 import tqdm
+import math
 
 from probabilityFunctions import calcFailgivennormct, calcFailgivennormctNoInfo, Pnormc, Ptheta, PthetaMax, failureboosting, failureboostingWithInfo, err, delta, est, delta2, err2
 
@@ -21,7 +22,7 @@ CIPHERTEXTS = 512
 # calculate failure boosting when x ciphertexts are known and save in txt file
 def precalc(lwe_n, q, sd, B, m, name):
     name2 = name
-    name = name + '/tmp_Kyber768_sd116'
+    name = name + '/tmp'
     if not os.path.exists(name):
         os.mkdir(name)
 
@@ -312,7 +313,7 @@ def directionalFailureboosting(lwe_n, q, sd, B, m, name, limitedqueries=False, m
 
     with open(name + '/worknextciphertext-LQ%r,MT%r.txt' % (limitedqueries, multitarget), 'w') as f_xy:
         for (x,y) in zip(ciphertextlist, worknextciphertext):
-            f_xy.write(str(x) + ', ' + str(y) + '\n')
+            f_xy.write(str(x) + ', '+ str(math.log2(y)) +'\n')
 
     plt.rcParams.update({'font.size': 16})
     plt.loglog(ciphertextlist, worknextciphertext, label='work', basex=2, basey=2)

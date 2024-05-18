@@ -14,3 +14,12 @@ ciphertexts 2, mean angle of combination with secret, theoretical: 0.517630, exp
 ciphertexts 3, mean angle of combination with secret, theoretical: 0.595339, experimental 0.574071
 ciphertexts 5, mean angle of combination with secret, theoretical: 0.691241, experimental 0.671063
 experimental probability of combining 2 ciphertexts, succesprob 1.000000
+theoretical probability of good estimate: 10125704.464650
+theta_SE 1.188578, theory: 1.166564
+theoretical probability of good estimate: 10125704.464650
+theta_SE 1.190047, theory: 1.166564
+theoretical probability of good estimate: 10125704.464650
+theta_SE 1.189464, theory: 1.166564
+theoretical probability of good estimate: 10132118.364232
+theta_SE 1.073051, theory: 1.023762
+theoretical probability of good estimate: 9096803.332075
