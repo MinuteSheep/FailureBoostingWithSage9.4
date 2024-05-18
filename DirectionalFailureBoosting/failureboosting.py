@@ -310,6 +310,10 @@ def directionalFailureboosting(lwe_n, q, sd, B, m, name, limitedqueries=False, m
     # plt.show()
     plt.clf()
 
+    with open(name + '/worknextciphertext-LQ%r,MT%r.txt' % (limitedqueries, multitarget), 'w') as f_xy:
+        for (x,y) in zip(ciphertextlist, worknextciphertext):
+            f_xy.write(str(x) + ', ' + str(y) + '\n')
+
     plt.rcParams.update({'font.size': 16})
     plt.loglog(ciphertextlist, worknextciphertext, label='work', basex=2, basey=2)
     plt.loglog(ciphertextlist, querynextciphertext, label='query', basex=2, basey=2)

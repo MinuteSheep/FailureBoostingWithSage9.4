@@ -5,3 +5,12 @@ theoretical probability of good estimate: 9096803.332075
 theta_SE 1.244135, theory: 1.236449
 theoretical probability of good estimate: 10132118.364232
 theta_SE 1.075113, theory: 1.023762
+theoretical probability of good estimate: 10125704.464650
+theoretical probability of good estimate: 10125704.464650
+theta_SE 1.185877, theory: 1.166564
+ciphertexts 0, mean angle of combination with secret, theoretical: 0.000000, experimental 0.375082
+ciphertexts 1, mean angle of combination with secret, theoretical: 0.393313, experimental 0.375554
+ciphertexts 2, mean angle of combination with secret, theoretical: 0.517630, experimental 0.496358
+ciphertexts 3, mean angle of combination with secret, theoretical: 0.595339, experimental 0.574071
+ciphertexts 5, mean angle of combination with secret, theoretical: 0.691241, experimental 0.671063
+experimental probability of combining 2 ciphertexts, succesprob 1.000000
