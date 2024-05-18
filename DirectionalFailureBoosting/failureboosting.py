@@ -15,7 +15,7 @@ from sage.all import RR, ZZ, ceil, sqrt, arccos, cos, pi, log, exp,\
 
 ACCURACY = 2**-300
 GRIDPOINTS = 300
-CIPHERTEXTS = 34
+CIPHERTEXTS = 512
 
 
 # calculate failure boosting when x ciphertexts are known and save in txt file
@@ -79,11 +79,11 @@ def precalc(lwe_n, q, sd, B, m, name):
 
     import multiprocessing as mp
     import pathos
-    pool = pathos.pools._ProcessPool(32, maxtasksperchild=1)
+    pool = pathos.pools._ProcessPool(maxtasksperchild=1)
     pool.map(f, thetaSE_list )
     pool.close()
     pool.join()
-    #pool.clear()
+    pool.clear()
 
     # TODO: fix memory leak in this map operation
     map(f, thetaSE_list)
@@ -219,7 +219,11 @@ def directionalFailureboosting(lwe_n, q, sd, B, m, name, limitedqueries=False, m
             eq *= vlam + (ab / normalizer)
 
         eq -= vlam**len(ablist) / (1 - exp(-1))
-        lam = find_root(eq, 0.001, 500000)
+        try:
+            lam = find_root(eq, 0.001, 500000)
+        except RuntimeError:
+            lam = 1
+
 
         # calculate the amount of work to get the next failure and sum
         work = 0
