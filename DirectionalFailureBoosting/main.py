@@ -18,7 +18,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("-n", type=int, default=768)
     parser.add_argument("-q", type=int, default=3329)
-    parser.add_argument("-sd", type=float, default=1)
+    parser.add_argument("-sd", type=float, default=1.16)
     parser.add_argument("-B", type=int, default=1)
     parser.add_argument("-m", type=int, default=256)
     parser.add_argument("-name", type=str, default="ourscheme", help="plot output filename")
