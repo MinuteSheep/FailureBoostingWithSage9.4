@@ -15,13 +15,13 @@ from sage.all import RR, ZZ, ceil, sqrt, arccos, cos, pi, log, exp,\
 
 ACCURACY = 2**-300
 GRIDPOINTS = 300
-CIPHERTEXTS = 512
+CIPHERTEXTS = 300
 
 
 # calculate failure boosting when x ciphertexts are known and save in txt file
 def precalc(lwe_n, q, sd, B, m, name):
     name2 = name
-    name = name + '/tmp'
+    name = name + '/tmp_Kyber768_sd1'
     if not os.path.exists(name):
         os.mkdir(name)
 
@@ -83,7 +83,7 @@ def precalc(lwe_n, q, sd, B, m, name):
     pool.map(f, thetaSE_list )
     pool.close()
     pool.join()
-    pool.clear()
+    #pool.clear()
 
     # TODO: fix memory leak in this map operation
     map(f, thetaSE_list)
