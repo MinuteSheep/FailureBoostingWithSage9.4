@@ -1,0 +1,273 @@
+
+ limited queries: False,  multitarget False
+work to obtain 1 ciphertexts with same probability:
+queries: 102.213022, total work:112.451518, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 2 ciphertexts with same probability:
+queries: 102.286111, total work:112.769703, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 3 ciphertexts with same probability:
+queries: 102.286747, total work:112.775046, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 4 ciphertexts with same probability:
+queries: 102.286764, total work:112.775250, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 5 ciphertexts with same probability:
+queries: 102.286765, total work:112.775265, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 6 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 7 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 8 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 9 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 10 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 11 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 12 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 13 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 14 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 15 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 16 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 17 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 18 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 19 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 20 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 21 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 22 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 23 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 24 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 25 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 26 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 27 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 28 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 29 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 30 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 31 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 32 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 33 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+
+ limited queries: False,  multitarget False
+work to obtain 34 ciphertexts with same probability:
+queries: 102.286765, total work:112.775267, probability: 0.632121
+attack not possible for: limited queries: True,  multitarget False
+
+ limited queries: True,  multitarget True
+work to obtain 1 ciphertexts with same probability:
+queries: 38.213022, total work:112.451518, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 2 ciphertexts with same probability:
+queries: 59.165026, total work:121.635911, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 3 ciphertexts with same probability:
+queries: 63.244189, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 4 ciphertexts with same probability:
+queries: 63.995871, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 5 ciphertexts with same probability:
+queries: 63.997891, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 6 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 7 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 8 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 9 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 10 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 11 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 12 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 13 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 14 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 15 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 16 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 17 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 18 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 19 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 20 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 21 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 22 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 23 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 24 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 25 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 26 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 27 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 28 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 29 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 30 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 31 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 32 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 33 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121
+
+ limited queries: True,  multitarget True
+work to obtain 34 ciphertexts with same probability:
+queries: 63.997919, total work:121.635959, probability: 0.632121

@@ -15,7 +15,7 @@ from sage.all import RR, ZZ, ceil, sqrt, arccos, cos, pi, log, exp,\
 
 ACCURACY = 2**-300
 GRIDPOINTS = 300
-CIPHERTEXTS = 30
+CIPHERTEXTS = 34
 
 
 # calculate failure boosting when x ciphertexts are known and save in txt file
@@ -77,13 +77,13 @@ def precalc(lwe_n, q, sd, B, m, name):
 
     f = lambda i: generate_alphabeta(i[0], i[1], name, xrange, yrange, n, qt, vars, norms, m)
 
-    # import multiprocessing as mp
-    # import pathos
-    # pool = pathos.pools._ProcessPool(4, maxtasksperchild=1)
-    # pool.map(f, thetaSE_list )
-    # pool.close()
-    # pool.join()
-    # pool.clear()
+    import multiprocessing as mp
+    import pathos
+    pool = pathos.pools._ProcessPool(32, maxtasksperchild=1)
+    pool.map(f, thetaSE_list )
+    pool.close()
+    pool.join()
+    #pool.clear()
 
     # TODO: fix memory leak in this map operation
     map(f, thetaSE_list)
